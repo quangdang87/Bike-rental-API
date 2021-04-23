@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0900" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-04-23T04:55:11" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Fetch details" timestamp="2021-04-23T04:55:11" tests="0" file="/Volumes/Documents/Learning/NodeJs/Bike-rental-API/test/test.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="/GET fetch" timestamp="2021-04-23T04:55:11" tests="6" file="/Volumes/Documents/Learning/NodeJs/Bike-rental-API/test/test.js" time="0.0900" failures="0">
+    <testcase name="Fetch details /GET fetch it should test login API" time="0.0510" classname="it should test login API">
+    </testcase>
+    <testcase name="Fetch details /GET fetch it should test getBikes API" time="0.0160" classname="it should test getBikes API">
+    </testcase>
+    <testcase name="Fetch details /GET fetch it should test register API" time="0.0090" classname="it should test register API">
+    </testcase>
+    <testcase name="Fetch details /GET fetch it should test getBooking API" time="0.0000" classname="it should test getBooking API">
+    </testcase>
+    <testcase name="Fetch details /GET fetch it should test Book API" time="0.0080" classname="it should test Book API">
+    </testcase>
+    <testcase name="Fetch details /GET fetch it should test UnBook API" time="0.0060" classname="it should test UnBook API">
+    </testcase>
+  </testsuite>
+</testsuites>
